@@ -1,3 +1,5 @@
+# DEPRECATED in favor of [browser-modern-extension-boilerplate](https://github.com/marcofugaro/browser-modern-extension-boilerplate). All browsers matter ❤️
+
 # chrome-modern-extension-boilerplate
 
 > Boilerplate for creating a chrome extension with up-to-date tools and autoreload of the extension
